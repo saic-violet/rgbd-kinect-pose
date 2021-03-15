@@ -1,1 +1,9 @@
+# abstract:
+# repository_name: rgbd-kinect-pose
+locale: "en"
+
+author:
+  name: Renat Bashirov
+  url: https://github.com/rmbashirov
+
 theme: jekyll-theme-cayman
